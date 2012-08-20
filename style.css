@@ -27,6 +27,7 @@ ul{
 }
 
 ul.photos li a{
+    display: inline;
     float: left;
     padding: 10px 10px 25px 10px;
     background: #eee;
