@@ -16,6 +16,10 @@ body {
     color:#00FF00;
 }
 
+#container {
+    width: 600px; margin: 40px auto;
+}
+
 ul{
     list-style:none;
 }
