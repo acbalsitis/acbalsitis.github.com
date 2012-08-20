@@ -16,10 +16,13 @@ body {
     color:#00FF00;
 }
 
-ul.photos li a{
+ul{
     list-style:none;
+}
+
+ul.photos li a{
     float: left;
     padding: 10px 10px 25px 10px;
-	background: #eee;
-	border: 1px solid #fff;
+    background: #eee;
+    border: 1px solid #fff;
 }    
